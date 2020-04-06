@@ -39,7 +39,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 
     <!-- Google Maps JS Api -->
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCakqO4xhgHWK9gebqUreK3Oy11Y-Ifn1c&libraries=visualization&callback=initMap"></script>
+    <script async defer src=""></script>
 
     <!-- Custom JS Functions -->
     <script src="thFunctions.js"></script>
